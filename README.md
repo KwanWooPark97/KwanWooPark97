@@ -5,6 +5,7 @@
 - 📫 How to reach me ... kwanwoopark97@gmail.com
 - my papers:
   https://www.mdpi.com/2076-3417/12/19/9837?utm_campaign=releaseissue_applsciutm_medium=emailutm_source=releaseissueutm_term=titlelink107
+  https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11170731&language=ko_KR&hasTopBanner=true
   
 <!---
 KwanWooPark97/KwanWooPark97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
