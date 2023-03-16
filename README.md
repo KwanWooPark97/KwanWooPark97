@@ -7,6 +7,7 @@
   https://www.mdpi.com/2076-3417/12/19/9837?utm_campaign=releaseissue_applsciutm_medium=emailutm_source=releaseissueutm_term=titlelink107
   https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11170731&language=ko_KR&hasTopBanner=true
   
+  3월부터 연구 주제때문에 ROS와 GAZEBO에 집중 GIT에 올리는 내용이 부실함
 <!---
 KwanWooPark97/KwanWooPark97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
