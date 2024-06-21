@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KwanWooPark97
-- 👀 I’m interested in Reinforcement Learning
-- 🌱 I’m currently learning Path planning
+- 👀 I’m interested in Reinforcement Learning, Deep Learning
+- 🌱 I’m currently learning LLM
 - 💞️ I’m looking to collaborate on https://sites.google.com/site/cdslweb/home?authuser=0
 - 📫 How to reach me ... kwanwoopark97@gmail.com
 - my papers:
