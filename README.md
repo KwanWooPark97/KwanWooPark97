@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on https://sites.google.com/site/cdslweb/home?authuser=0
 - 📫 How to reach me ... kwanwoopark97@gmail.com
 - my papers:
-  https://www.mdpi.com/2076-3417/12/19/9837?utm_campaign=releaseissue_applsciutm_medium=emailutm_source=releaseissueutm_term=titlelink107  
-  https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11170731&language=ko_KR&hasTopBanner=true
+  1. https://www.mdpi.com/2076-3417/12/19/9837?utm_campaign=releaseissue_applsciutm_medium=emailutm_source=releaseissueutm_term=titlelink107  
+  2. https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11170731&language=ko_KR&hasTopBanner=true
 - Portfolio:
   https://drive.google.com/file/d/1RvuyxIHbNnJVqvV3JTVoPjQU1uHr6eNj/view?usp=sharing
 
